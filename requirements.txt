@@ -5,3 +5,4 @@ pandas
 biopython
 numpy
 scikit-learn
+pickle
