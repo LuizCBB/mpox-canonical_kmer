@@ -1,0 +1,7 @@
+tqdm
+streamlit
+screed
+pandas
+biopython
+numpy
+scikit-learn
